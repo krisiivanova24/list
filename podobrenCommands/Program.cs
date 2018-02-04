@@ -1,0 +1,64 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace podobrenCommands
+{
+    class Program
+    {
+        static void PrintArray(string[] array)
+        {
+            for (int i = 0; i < array.Length; i++)
+            {
+                if (array[i] != null)
+                {
+                    Console.Write($"{array[i]}, ");
+                }
+
+            }
+        }
+        static void Main(string[] args)
+        {
+            string[] array = Console.ReadLine().Split(' ').ToArray();
+            //byte number = byte.Parse(Console.ReadLine());
+            string command = null;
+            while (command != "END")
+            {
+                command = Console.ReadLine();
+                if (command == "Reverse")
+                {
+                    Array.Reverse(array);
+                }
+                else if (command == "Distinct")
+                {
+                    for (int k = 0; k < array.Length - 1; k++)
+                    {
+                        for (int j = k + 1; j < array.Length; j++)
+                        {
+                            if (array[k] == array[j])
+                            {
+                                array[j] = null;
+                            }
+                        }
+                    }
+
+                }
+                else 
+                {
+                    string[] comParam = command.Split(' ').ToArray();
+                    int index = int.Parse(comParam[1]);
+                    string word = comParam[2];
+                    array[index] = word;
+                    if (index > array.Length || index < int.Parse(array[0]) )
+                    {
+                        Console.WriteLine("Invalid input!");
+                    }
+                }
+               
+            }
+            PrintArray(array);
+        }
+    }
+}
