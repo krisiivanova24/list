@@ -1,0 +1,6 @@
+C:\Users\STUDENTS\Desktop\NP_IT24\list\povtarqshti\bin\Debug\povtarqshti.exe.config
+C:\Users\STUDENTS\Desktop\NP_IT24\list\povtarqshti\bin\Debug\povtarqshti.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\list\povtarqshti\bin\Debug\povtarqshti.pdb
+C:\Users\STUDENTS\Desktop\NP_IT24\list\povtarqshti\obj\Debug\povtarqshti.csprojResolveAssemblyReference.cache
+C:\Users\STUDENTS\Desktop\NP_IT24\list\povtarqshti\obj\Debug\povtarqshti.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\list\povtarqshti\obj\Debug\povtarqshti.pdb

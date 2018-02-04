@@ -17,7 +17,6 @@ namespace minMax
                 if (item == numbers.Min() || item == numbers.Max())
                 {
                     newList.Add(item);
-
                 }
             }
             newList.Sort();
