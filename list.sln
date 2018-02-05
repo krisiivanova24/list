@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "minMax", "minMax\minMax.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "povtarqshti", "povtarqshti\povtarqshti.csproj", "{7B21F677-15E5-466E-9A1E-13B6AD61A063}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "poredica", "poredica\poredica.csproj", "{73898861-CC93-48FF-AF0B-299B35832B16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{7B21F677-15E5-466E-9A1E-13B6AD61A063}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B21F677-15E5-466E-9A1E-13B6AD61A063}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B21F677-15E5-466E-9A1E-13B6AD61A063}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73898861-CC93-48FF-AF0B-299B35832B16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73898861-CC93-48FF-AF0B-299B35832B16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73898861-CC93-48FF-AF0B-299B35832B16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73898861-CC93-48FF-AF0B-299B35832B16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
