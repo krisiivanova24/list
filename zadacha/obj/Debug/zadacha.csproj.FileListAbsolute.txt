@@ -1,0 +1,6 @@
+C:\Users\STUDENTS\Desktop\NP_IT24\list\zadacha\obj\Debug\zadacha.csprojResolveAssemblyReference.cache
+C:\Users\STUDENTS\Desktop\NP_IT24\list\zadacha\bin\Debug\zadacha.exe.config
+C:\Users\STUDENTS\Desktop\NP_IT24\list\zadacha\bin\Debug\zadacha.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\list\zadacha\bin\Debug\zadacha.pdb
+C:\Users\STUDENTS\Desktop\NP_IT24\list\zadacha\obj\Debug\zadacha.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\list\zadacha\obj\Debug\zadacha.pdb

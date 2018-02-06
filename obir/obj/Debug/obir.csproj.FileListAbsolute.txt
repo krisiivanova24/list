@@ -1,0 +1,6 @@
+C:\Users\STUDENTS\Desktop\NP_IT24\list\obir\bin\Debug\obir.exe.config
+C:\Users\STUDENTS\Desktop\NP_IT24\list\obir\bin\Debug\obir.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\list\obir\bin\Debug\obir.pdb
+C:\Users\STUDENTS\Desktop\NP_IT24\list\obir\obj\Debug\obir.csprojResolveAssemblyReference.cache
+C:\Users\STUDENTS\Desktop\NP_IT24\list\obir\obj\Debug\obir.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\list\obir\obj\Debug\obir.pdb
